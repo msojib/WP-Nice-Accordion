@@ -1,0 +1,18 @@
+# Copyright (C) 2022 ReacThemes
+# This file is distributed under the GNU General Public License v2 or later.
+"Project-Id-Version: WP Nice Accordion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-5-08 16:31+0300\n"
+"PO-Revision-Date: 2022-5-08 14:30+0300\n"
+"Last-Translator:Mahabub <support@reacthem.com>\n"
+"Language-Team: clteam\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: file.php:27
+msgid "string"
+msgstr ""
+
+

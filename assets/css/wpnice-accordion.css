@@ -1,0 +1,44 @@
+/*Font End CSS*/
+.accordion-button:after {
+  display: none;
+}
+.wpnp-accordion .accordion-button {
+  color: #222;
+  font-size: 18px;
+  font-weight: 500;
+  position: relative;
+}
+.wpnp-accordion .accordion-button:after {
+  display: block;
+  position: absolute;
+  content: '\f078';
+  font-family: 'Font Awesome 5 Pro';
+  left: -4px;
+  bottom: 4px;
+  font-size: 16px;
+  font-weight: 300;
+  color: #222;
+  right: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  background-image: none;
+}
+.wpnp-accordion .accordion-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+.wpnp-accordion .accordion-button:not(.collapsed) {
+  background: #e7f1ff;
+  color: #0c63e4;
+}
+.wpnp-accordion .accordion-button:not(.collapsed):after {
+  content: "\f077";
+  color: #0c63e4;
+}
+.wpnp-accordion.option-1 .accordion-item {
+  border-color: #ddd;
+}
+.wpnp-accordion.option-2 .accordion-item {
+  border-color: ddd;
+}
